@@ -1,0 +1,55 @@
+13.41.48  [main] 	Initializing Control Panel
+13.41.48  [main] 	Windows Version:  Home  64-bit
+13.41.48  [main] 	XAMPP Version: 8.0.5
+13.41.48  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13.41.48  [main] 	You are not running with administrator rights! This will work for
+13.41.48  [main] 	most application stuff but whenever you do something with services
+13.41.48  [main] 	there will be a security dialogue or things will break! So think 
+13.41.48  [main] 	about running this application with administrator rights!
+13.41.48  [main] 	XAMPP Installation Directory: "c:\xampp\"
+13.41.48  [main] 	Checking for prerequisites
+13.41.49  [main] 	All prerequisites found
+13.41.49  [main] 	Initializing Modules
+13.41.49  [mysql] 	XAMPP MySQL is already running on port 3306
+13.41.49  [main] 	Starting Check-Timer
+13.41.49  [main] 	Control Panel Ready
+13.42.00  [mysql] 	Attempting to stop MySQL app...
+13.42.01  [mysql] 	Status change detected: stopped
+13.42.02  [Apache] 	Attempting to start Apache app...
+13.42.03  [Apache] 	Status change detected: running
+13.58.27  [mysql] 	Attempting to start MySQL app...
+13.58.27  [mysql] 	Status change detected: running
+15.02.48  [Apache] 	Attempting to stop Apache (PID: 3280)
+15.02.48  [Apache] 	Attempting to stop Apache (PID: 5780)
+15.02.49  [Apache] 	Status change detected: stopped
+15.02.49  [mysql] 	Attempting to stop MySQL app...
+15.02.50  [mysql] 	Status change detected: stopped
+15.05.45  [main] 	Deinitializing Modules
+15.05.45  [main] 	Deinitializing Control Panel
+
+19.38.20  [main] 	Initializing Control Panel
+19.38.20  [main] 	Windows Version:  Home  64-bit
+19.38.20  [main] 	XAMPP Version: 8.0.5
+19.38.20  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19.38.21  [main] 	You are not running with administrator rights! This will work for
+19.38.21  [main] 	most application stuff but whenever you do something with services
+19.38.21  [main] 	there will be a security dialogue or things will break! So think 
+19.38.21  [main] 	about running this application with administrator rights!
+19.38.21  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19.38.21  [main] 	Checking for prerequisites
+19.38.23  [main] 	All prerequisites found
+19.38.23  [main] 	Initializing Modules
+19.38.23  [main] 	Starting Check-Timer
+19.38.23  [main] 	Control Panel Ready
+19.38.25  [Apache] 	Attempting to start Apache app...
+19.38.25  [Apache] 	Status change detected: running
+19.38.27  [mysql] 	Attempting to start MySQL app...
+19.38.27  [mysql] 	Status change detected: running
+21.46.51  [Apache] 	Attempting to stop Apache (PID: 15168)
+21.46.51  [Apache] 	Attempting to stop Apache (PID: 14060)
+21.46.51  [Apache] 	Status change detected: stopped
+21.46.52  [mysql] 	Attempting to stop MySQL app...
+21.46.52  [mysql] 	Status change detected: stopped
+21.49.12  [main] 	Deinitializing Modules
+21.49.12  [main] 	Deinitializing Control Panel
+

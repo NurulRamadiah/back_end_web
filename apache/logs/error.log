@@ -1,0 +1,50 @@
+[Wed May 05 13:35:57.422882 2021] [ssl:warn] [pid 7584:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:35:57.560116 2021] [ssl:warn] [pid 7584:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:35:58.182566 2021] [mpm_winnt:notice] [pid 7584:tid 564] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.5 configured -- resuming normal operations
+[Wed May 05 13:35:58.182566 2021] [mpm_winnt:notice] [pid 7584:tid 564] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Wed May 05 13:35:58.182566 2021] [core:notice] [pid 7584:tid 564] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed May 05 13:35:58.190572 2021] [mpm_winnt:notice] [pid 7584:tid 564] AH00418: Parent: Created child process 2628
+[Wed May 05 13:35:59.213512 2021] [ssl:warn] [pid 2628:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:35:59.304339 2021] [ssl:warn] [pid 2628:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:35:59.354877 2021] [mpm_winnt:notice] [pid 2628:tid 660] AH00354: Child: Starting 150 worker threads.
+[Wed May 05 13:41:32.861378 2021] [ssl:warn] [pid 2328:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:41:32.899150 2021] [core:warn] [pid 2328:tid 556] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 05 13:41:32.899150 2021] [ssl:warn] [pid 2328:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:41:33.215654 2021] [mpm_winnt:notice] [pid 2328:tid 556] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.5 configured -- resuming normal operations
+[Wed May 05 13:41:33.215654 2021] [mpm_winnt:notice] [pid 2328:tid 556] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Wed May 05 13:41:33.215654 2021] [core:notice] [pid 2328:tid 556] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/xampp/apache -f conf\\httpd.conf'
+[Wed May 05 13:41:33.215654 2021] [mpm_winnt:notice] [pid 2328:tid 556] AH00418: Parent: Created child process 9200
+Apache server shutdown initiated...
+sl:warn] [pid 9200:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:41:33.573545 2021] [ssl:warn] [pid 9200:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:41:33.589180 2021] [mpm_winnt:notice] [pid 9200:tid 580] AH00354: Child: Starting 150 worker threads.
+[Wed May 05 13:41:38.421333 2021] [mpm_winnt:notice] [pid 2328:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 05 13:41:40.436235 2021] [mpm_winnt:notice] [pid 9200:tid 580] AH00364: Child: All worker threads have exited.
+[Wed May 05 13:41:40.459406 2021] [mpm_winnt:notice] [pid 2328:tid 556] AH00430: Parent: Child process 9200 exited successfully.
+[Wed May 05 13:42:03.250216 2021] [ssl:warn] [pid 3280:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:42:03.296981 2021] [ssl:warn] [pid 3280:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:42:03.319120 2021] [mpm_winnt:notice] [pid 3280:tid 584] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.5 configured -- resuming normal operations
+[Wed May 05 13:42:03.319120 2021] [mpm_winnt:notice] [pid 3280:tid 584] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Wed May 05 13:42:03.319120 2021] [core:notice] [pid 3280:tid 584] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed May 05 13:42:03.319120 2021] [mpm_winnt:notice] [pid 3280:tid 584] AH00418: Parent: Created child process 5780
+[Wed May 05 13:42:03.631023 2021] [ssl:warn] [pid 5780:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:42:03.662285 2021] [ssl:warn] [pid 5780:tid 600] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 13:42:03.693544 2021] [mpm_winnt:notice] [pid 5780:tid 600] AH00354: Child: Starting 150 worker threads.
+[Wed May 05 19:38:28.589395 2021] [ssl:warn] [pid 15168:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 19:38:28.705853 2021] [core:warn] [pid 15168:tid 616] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 05 19:38:28.705853 2021] [ssl:warn] [pid 15168:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 19:38:29.476424 2021] [mpm_winnt:notice] [pid 15168:tid 616] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.5 configured -- resuming normal operations
+[Wed May 05 19:38:29.476424 2021] [mpm_winnt:notice] [pid 15168:tid 616] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Wed May 05 19:38:29.476424 2021] [core:notice] [pid 15168:tid 616] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed May 05 19:38:29.476424 2021] [mpm_winnt:notice] [pid 15168:tid 616] AH00418: Parent: Created child process 14060
+[Wed May 05 19:38:30.108244 2021] [ssl:warn] [pid 14060:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 19:38:30.216558 2021] [ssl:warn] [pid 14060:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 05 19:38:30.269984 2021] [mpm_winnt:notice] [pid 14060:tid 604] AH00354: Child: Starting 150 worker threads.
+[Wed May 05 20:08:00.043761 2021] [php:warn] [pid 14060:tid 1812] [client ::1:52324] PHP Warning:  Undefined array key "id" in C:\\xampp\\htdocs\\pabw\\edit.php on line 24, referer: http://localhost/pabw/edit.php?id=6
+[Wed May 05 20:08:00.043761 2021] [php:error] [pid 14060:tid 1812] [client ::1:52324] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in C:\\xampp\\htdocs\\pabw\\edit.php:29\nStack trace:\n#0 C:\\xampp\\htdocs\\pabw\\edit.php(29): mysqli_fetch_array(false)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\pabw\\edit.php on line 29, referer: http://localhost/pabw/edit.php?id=6
+[Wed May 05 20:27:26.665586 2021] [php:warn] [pid 14060:tid 1804] [client ::1:52594] PHP Warning:  Undefined array key "id" in C:\\xampp\\htdocs\\pabw\\edit.php on line 24, referer: http://localhost/pabw/edit.php?id=6
+[Wed May 05 20:27:26.665586 2021] [php:error] [pid 14060:tid 1804] [client ::1:52594] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in C:\\xampp\\htdocs\\pabw\\edit.php:29\nStack trace:\n#0 C:\\xampp\\htdocs\\pabw\\edit.php(29): mysqli_fetch_array(false)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\pabw\\edit.php on line 29, referer: http://localhost/pabw/edit.php?id=6
+[Wed May 05 20:27:36.974730 2021] [php:warn] [pid 14060:tid 1812] [client ::1:52598] PHP Warning:  Undefined array key "id" in C:\\xampp\\htdocs\\pabw\\edit.php on line 24, referer: http://localhost/pabw/edit.php?id=7
+[Wed May 05 20:27:36.974730 2021] [php:error] [pid 14060:tid 1812] [client ::1:52598] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in C:\\xampp\\htdocs\\pabw\\edit.php:29\nStack trace:\n#0 C:\\xampp\\htdocs\\pabw\\edit.php(29): mysqli_fetch_array(false)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\pabw\\edit.php on line 29, referer: http://localhost/pabw/edit.php?id=7
+[Wed May 05 20:27:50.334257 2021] [php:warn] [pid 14060:tid 1804] [client ::1:52602] PHP Warning:  Undefined array key "id" in C:\\xampp\\htdocs\\pabw\\edit.php on line 24, referer: http://localhost/pabw/edit.php?id=6
+[Wed May 05 20:27:50.334257 2021] [php:error] [pid 14060:tid 1804] [client ::1:52602] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in C:\\xampp\\htdocs\\pabw\\edit.php:29\nStack trace:\n#0 C:\\xampp\\htdocs\\pabw\\edit.php(29): mysqli_fetch_array(false)\n#1 {main}\n  thrown in C:\\xampp\\htdocs\\pabw\\edit.php on line 29, referer: http://localhost/pabw/edit.php?id=6
